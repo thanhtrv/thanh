@@ -1,6 +1,6 @@
 # Hi
 
-I'm PhD candidate who is working on Machine Learning and Big Data Processing in Transport.
+I'm PhD candidate who is working on Machine Learning and Big Data Processing in Real-time Transport Application.
 Also, I'm interested in Real-time Data & Machine Learning Systems for large-scale problems.
 
 
